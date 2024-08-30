@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Equipas\CriarEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Fases\CriarFases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Geral\Apagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Golos\CriarGolos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Jogadores\CriarJogador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Jogos\CriarJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Torneio\CriarTorneio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Treinadores\CriarTreinador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hoquei.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\GestaoEquipaJogadores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\GestaoTorneio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\GestaoTreinadores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Teste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Visualizacao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

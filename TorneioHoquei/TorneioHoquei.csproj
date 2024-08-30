@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Forms\Equipas\CriarEquipa.cs" />
+    <Compile Remove="Forms\Equipas\CriarEquipa.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Forms\Equipas\CriarEquipa.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Forms\Equipas\EditarEquipa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Fases\EditarFases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Golos\EditarGolos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Jogadores\EditarJogador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Jogos\EditarJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Torneio\EditarTorneio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Treinadores\EditarTreinador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

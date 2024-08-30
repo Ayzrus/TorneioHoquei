@@ -1,0 +1,202 @@
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.exe
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.deps.json
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.runtimeconfig.json
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Hoquei.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfo.cs
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CopyComplete
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\refint\TorneioHoquei.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.genruntimeconfig.cache
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\ref\TorneioHoquei.dll
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoEquipaJogadores.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTorneio.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTreinadores.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Visualizacao.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.CriarTreinador.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.CriarEquip.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.CriarJogador.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.CriarTorneio.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.CriarFases.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.CriarJogo.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.CriarGolos.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Geral.Apagar.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.EditarEquipa.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.EditarJogador.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.EditarTreinador.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.EditarTorneio.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.EditarFases.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.EditarGolos.resources
+C:\Users\rodri\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.EditarJogo.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.exe
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.deps.json
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.runtimeconfig.json
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.AssemblyReference.cache
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.CriarEquip.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.EditarEquipa.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.CriarFases.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.EditarFases.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Geral.Apagar.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.CriarGolos.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.EditarGolos.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.CriarJogador.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.EditarJogador.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.CriarJogo.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.EditarJogo.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.CriarTorneio.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.EditarTorneio.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.CriarTreinador.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.EditarTreinador.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Hoquei.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoEquipaJogadores.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTorneio.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTreinadores.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Visualizacao.resources
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.GenerateResource.cache
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfoInputs.cache
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfo.cs
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CopyComplete
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\refint\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.genruntimeconfig.cache
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\ref\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.exe
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.deps.json
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.runtimeconfig.json
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.AssemblyReference.cache
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.CriarEquip.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.EditarEquipa.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.CriarFases.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.EditarFases.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Geral.Apagar.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.CriarGolos.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.EditarGolos.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.CriarJogador.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.EditarJogador.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.CriarJogo.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.EditarJogo.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.CriarTorneio.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.EditarTorneio.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.CriarTreinador.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.EditarTreinador.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Hoquei.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoEquipaJogadores.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTorneio.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTreinadores.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Visualizacao.resources
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.GenerateResource.cache
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfoInputs.cache
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfo.cs
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CopyComplete
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\refint\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.genruntimeconfig.cache
+C:\Users\RODRIGOCARVALHO\source\repos\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\ref\TorneioHoquei.dll
+C:\Users\RODRIGOCARVALHO\OneDrive - IEFP Formação\Ambiente de Trabalho\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Teste.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.exe
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.deps.json
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.runtimeconfig.json
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.AssemblyReference.cache
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.CriarEquip.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Equipas.EditarEquipa.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.CriarFases.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Fases.EditarFases.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Geral.Apagar.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.CriarGolos.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Golos.EditarGolos.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.CriarJogador.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogadores.EditarJogador.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.CriarJogo.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Jogos.EditarJogo.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.CriarTorneio.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Torneio.EditarTorneio.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.CriarTreinador.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Forms.Treinadores.EditarTreinador.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.Hoquei.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoEquipaJogadores.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTorneio.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.GestaoTreinadores.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Teste.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.UserControls.Visualizacao.resources
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.GenerateResource.cache
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfoInputs.cache
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.AssemblyInfo.cs
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CoreCompileInputs.cache
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.csproj.CopyComplete
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\refint\TorneioHoquei.dll
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.pdb
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\TorneioHoquei.genruntimeconfig.cache
+C:\Users\IEFP\Desktop\RodrigoCoelho\3Ano\Programacao\C#\TorneioHoquei\TorneioHoquei\obj\Debug\net8.0-windows\ref\TorneioHoquei.dll
